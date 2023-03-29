@@ -12,7 +12,9 @@ __Date:__ February 2023
 Here is a screenshot of my completed hackathon scoreboard entry.  
 I ranked 24<sup>th</sup> in terms of cumulative completion time for the problem sets.  
 ![Scoreboard](qhack2023_score.png)  
-I solved all the challenges, but started a few days late and lost a few spots there. Oh well.  
+
+And here is accompanying certificate  
+![Certificate](qhack2023_certificate.png)  
   
 ## Files  
 There are several challenges, each in the form of a self-contained `.ipynb` in the [`ipynb`](./ipynb/) folder.  
